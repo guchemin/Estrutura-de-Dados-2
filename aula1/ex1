@@ -1,0 +1,6 @@
+pré ordem:
+    a b d c e f
+in ordem:
+    b d a e c f 
+pós ordem:
+    d b e f c a 
